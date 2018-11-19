@@ -3,6 +3,8 @@
 #include <string>
 #include <ctime>
 
+#include <nlohmann/json.hpp>
+
 namespace discordpp {
 
     /**
